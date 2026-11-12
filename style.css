@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+   
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("https://i.pinimg.com/originals/c7/f4/b7/c7f4b7922cad40cd75fb214a63bec12d.gif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+position: relative;
+
+}
+.img{
+    height: 200px;
+    position: absolute;
+    bottom: 70px;
+}
+#char1{
+    left: 30px;
+}
+
+#char2{
+    right: 30px;
+}
+
+
+
